@@ -67,7 +67,7 @@ Includes **member management, training quizzes, and structured knowledge workflo
 
 **Tech:** Vue, Supabase, Cloudflare  
 **Highlights:** real-world usage · clean architecture · reliability  
-🔗 https://github.com/MrIceTea321
+🔗 [https://www.weininsel-wehr.de](https://www.weininsel-wehr.de/)
 
 ---
 
