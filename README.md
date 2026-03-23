@@ -14,8 +14,8 @@ Currently exploring the intersection of **AI agents, automation, and modern web 
 ![Vue](https://img.shields.io/badge/Vue-000?style=flat&logo=vue.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript)
 ![AWS](https://img.shields.io/badge/AWS-000?style=flat&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/Docker-000?style=flat&logo=docker)
-![Terraform](https://img.shields.io/badge/Terraform-000?style=flat&logo=terraform)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-000?style=flat&logo=cloudflare)
+![Supabase](https://img.shields.io/badge/Supabase-000?style=flat&logo=supabase)
 
 <sub>Core = what I reach for most when building real products</sub>
 
@@ -76,13 +76,6 @@ Includes **member management, training quizzes, and structured knowledge workflo
 - AI-powered workflows & developer tooling  
 - Cloud-native apps with AWS & Terraform  
 - Clean, scalable full stack systems  
-
----
-
-## GitHub stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrIceTea321&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrIceTea321&layout=compact)
 
 ---
 
